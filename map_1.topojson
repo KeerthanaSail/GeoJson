@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"map_1":{"type":"GeometryCollection","geometries":[{"type":"LineString","arcs":[0],"properties":{"village_name":"Hugli"}}]}},"arcs":[[[0,0],[999999,999999]]],"bbox":[213.75,55.7765730186677,253.125,64.16810689799152],"transform":{"scale":[0.00003937503937503938,0.000008391542270866094],"translate":[213.75,55.7765730186677]}}
